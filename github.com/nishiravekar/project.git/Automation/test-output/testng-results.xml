@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123645" started-at="2016-08-29T10:24:08Z" finished-at="2016-08-29T10:26:12Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123645" started-at="2016-08-29T10:24:08Z" finished-at="2016-08-29T10:26:12Z">
+      <class name="Default1.linkall">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Default1.linkall@13066a26]" name="setUp" is-config="true" duration-ms="36969" started-at="2016-08-29T15:54:08Z" finished-at="2016-08-29T15:54:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="validateInvalidLinks()[pri:0, instance:Default1.linkall@13066a26]" name="validateInvalidLinks" duration-ms="85298" started-at="2016-08-29T15:54:45Z" finished-at="2016-08-29T15:56:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateInvalidLinks -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Default1.linkall@13066a26]" name="tearDown" is-config="true" duration-ms="1298" started-at="2016-08-29T15:56:11Z" finished-at="2016-08-29T15:56:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Default1.linkall -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
